@@ -1,5 +1,5 @@
 <!-- ABOUT THE PROJECT -->
-## About Polo Conecta
+## Sobre Polo Conecta
  <h3 align="center">Polo conecta</h3>
  ✨ Características Específicas del Producto
 Perfiles Duales y Crudos: Distinguir entre Empresa Contratante y Empresa Proveedora de Servicios.
@@ -19,7 +19,7 @@ Básico (Gratis): Perfil de empresa, visibilidad en buscador, postulación a 3 o
 Pro (Pago): Postulaciones ilimitadas, estadísticas avanzadas, y contacto directo para hacer networking sin límites.
 
 
-### Built With
+### Construido con
 
 - [ React 18 + TypeScript + Vite.](https://vite.dev/)
 - [Tailwind CSS](https://tailwindcss.com/docs/installation/using-vite)
