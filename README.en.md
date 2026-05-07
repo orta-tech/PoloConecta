@@ -1,28 +1,46 @@
 <!-- ABOUT THE PROJECT -->
-## Sobre Polo Conecta
- <h3 align="center">Polo conecta</h3>
- ✨ Características Específicas del Producto
-Perfiles Duales y Crudos: Distinguir entre Empresa Contratante y Empresa Proveedora de Servicios.
+## About Polo Conecta
 
-Feed de Oportunidades en Tiempo Real: Que las grandes empresas puedan publicar concursos para servicios específicos y los proveedores puedan postularse.
+<h3 align="center">Polo Conecta</h3>
 
-Directorio Industrial Activo: Olvidate de los PDFs viejos de las cámaras. Necesito un directorio vivo, rankeado, con reseñas y verificado.
+✨ Product-Specific Features
 
-Módulo de Gestión de Proyectos: Que una vez que se asigna un contrato, ambas partes puedan dialogar y compartir avances dentro de la misma plataforma.
+- Dual and Raw Profiles: Differentiate between Hiring Companies and Service Provider Companies.
 
-Panel de Inteligencia (Dashboard): Algo básico pero funcional: quién está contratando más, cuáles son las skills más demandadas, y qué tan activo está el mercado.
+- Real-Time Opportunity Feed: Large companies can publish service tenders, while providers can apply directly through the platform.
 
-Plan de Negocio Freemium:
+- Active Industrial Directory: Forget outdated chamber PDFs. The platform provides a live, ranked, reviewed, and verified business directory.
 
-Básico (Gratis): Perfil de empresa, visibilidad en buscador, postulación a 3 oportunidades por mes.
+- Project Management Module: Once a contract is assigned, both parties can communicate and share progress updates within the same platform.
 
-Pro (Pago): Postulaciones ilimitadas, estadísticas avanzadas, y contacto directo para hacer networking sin límites.
+- Intelligence Dashboard: A simple but functional dashboard showing:
+  - which companies are hiring the most,
+  - the most in-demand skills,
+  - and overall market activity.
 
-## Estado del proyecto :
-  "🚧 En desarrollo activo
+### Freemium Business Model
 
-### Construido con
-## 🚀 Tecnologías utilizadas
+#### Basic (Free)
+- Company profile
+- Search visibility
+- Apply to up to 3 opportunities per month
+
+#### Pro (Paid)
+- Unlimited applications
+- Advanced statistics
+- Direct networking contact without limits
+
+---
+
+## Project Status
+
+🚧 Currently under active development
+
+---
+
+### Built With
+
+## 🚀 Technologies Used
 
 <table align="center">
   <tr>
@@ -103,14 +121,23 @@ Pro (Pago): Postulaciones ilimitadas, estadísticas avanzadas, y contacto direct
   </tr>
 </table>
 
+---
 
-### Para poder ejecutar localmente
-1. clonar proyecto
-2. npm install 
-3. npm run dev
-4. abrir navegador 
+### Running Locally
 
-### Contacto 
-- [mail](mailto:ortatech@hotmail.com)
-- [LinkedIn](www.linkedin.com/in/cesar-martin-de-orta-4209693bb)
+1. Clone the repository
+2. Run:
 
+```bash
+npm install
+npm run dev
+```
+
+3. Open your browser
+
+---
+
+### Contact
+
+- [Email](mailto:ortatech@hotmail.com)
+- [LinkedIn](https://www.linkedin.com/in/cesar-martin-de-orta-4209693bb)
