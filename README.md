@@ -1,9 +1,6 @@
-ABOUT THE PROJECT
-## PoloConecta
- <h3 align="center">PoloConecta – El LinkedIn Industrial de Bahía Blanca</h3>
-
-PoloConecta nace para resolver la desconexión entre las grandes empresas del Polo Petroquímico y Puerto de Bahía Blanca y las pymes de servicios locales. Aquí las empresas contratantes publican necesidades y los proveedores calificados encuentran oportunidades reales.
-
+<!-- ABOUT THE PROJECT -->
+## Sobre Polo Conecta
+ <h3 align="center">Polo conecta</h3>
  ✨ Características Específicas del Producto
 Perfiles Duales y Crudos: Distinguir entre Empresa Contratante y Empresa Proveedora de Servicios.
 
