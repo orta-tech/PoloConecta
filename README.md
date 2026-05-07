@@ -22,7 +22,7 @@ Pro (Pago): Postulaciones ilimitadas, estadísticas avanzadas, y contacto direct
   "🚧 En desarrollo activo
 
 ### Construido con
-
+![React Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg) **React 18**
 - [ React 18 + TypeScript + Vite.](https://vite.dev/)
 - [Tailwind CSS](https://tailwindcss.com/docs/installation/using-vite)
 - [ Headless UI](https://headlessui.com/)
@@ -38,6 +38,6 @@ Pro (Pago): Postulaciones ilimitadas, estadísticas avanzadas, y contacto direct
 4. abrir navegador 
 
 ### Contacto 
-- [mail](ortatech@hotmail.com)
+- [mail](mailto:ortatech@hotmail.com)
 - [LinkedIn](www.linkedin.com/in/cesar-martin-de-orta-4209693bb)
 
