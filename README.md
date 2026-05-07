@@ -34,7 +34,7 @@ Pro (Pago): Postulaciones ilimitadas, estadísticas avanzadas, y contacto direct
 
 | React 18 | TypeScript | Vite | Tailwind CSS |
 |----------|------------|------|--------------|
-| ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg) | ![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg) | ![Vite](https://vitejs.dev/logo.svg) | ![Tailwind](https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg) |
+| ![React](<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="Vite" width="40"/>) | ![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg) | ![Vite](https://vitejs.dev/logo.svg) | ![Tailwind](https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg) |
 
 | Headless UI | TanStack Query | Zustand | Supabase |
 |-------------|----------------|---------|----------|
