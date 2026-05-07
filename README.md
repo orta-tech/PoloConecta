@@ -22,14 +22,27 @@ Pro (Pago): Postulaciones ilimitadas, estadísticas avanzadas, y contacto direct
   "🚧 En desarrollo activo
 
 ### Construido con
-![React Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg) **React 18**
+<!-- ![React Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg) **React 18**
 - [ React 18 + TypeScript + Vite.](https://vite.dev/)
 - [Tailwind CSS](https://tailwindcss.com/docs/installation/using-vite)
 - [ Headless UI](https://headlessui.com/)
 - [tanstack](https://tanstack.com/query/v4/docs/framework/react/overview)
 - [Zustand](https://github.com/pmndrs/zustand)
 - [Supabase](https://supabase.com/docs/guides/getting-started/quickstarts/reactjs)
-- [Mercado Pago](https://www.mercadopago.com.ar/developers/es/reference)
+- [Mercado Pago](https://www.mercadopago.com.ar/developers/es/reference) -->
+## 🚀 Tecnologías utilizadas
+
+| React 18 | TypeScript | Vite | Tailwind CSS |
+|----------|------------|------|--------------|
+| ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg) | ![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg) | ![Vite](https://vitejs.dev/logo.svg) | ![Tailwind](https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg) |
+
+| Headless UI | TanStack Query | Zustand | Supabase |
+|-------------|----------------|---------|----------|
+| ![Headless UI](https://avatars.githubusercontent.com/u/67109815?s=200&v=4) | ![TanStack](https://tanstack.com/_next/static/media/logo.1a5e9c5d.svg) | ![Zustand](https://avatars.githubusercontent.com/u/476675?s=200&v=4) | ![Supabase](https://raw.githubusercontent.com/supabase/supabase/master/packages/docs/public/img/supabase-logo-icon.svg) |
+
+| Mercado Pago |
+|--------------|
+| ![Mercado Pago](https://http2.mlstatic.com/frontend-assets/mp-web-navigation/ui-navigation/logo__large.png) |
 
 ### Para poder ejecutar localmente
 1. clonar proyecto
