@@ -1,6 +1,9 @@
-<!-- ABOUT THE PROJECT -->
-## About Polo Conecta
- <h3 align="center">Polo conecta</h3>
+ABOUT THE PROJECT
+## PoloConecta
+ <h3 align="center">PoloConecta – El LinkedIn Industrial de Bahía Blanca</h3>
+
+PoloConecta nace para resolver la desconexión entre las grandes empresas del Polo Petroquímico y Puerto de Bahía Blanca y las pymes de servicios locales. Aquí las empresas contratantes publican necesidades y los proveedores calificados encuentran oportunidades reales.
+
  ✨ Características Específicas del Producto
 Perfiles Duales y Crudos: Distinguir entre Empresa Contratante y Empresa Proveedora de Servicios.
 
@@ -18,8 +21,10 @@ Básico (Gratis): Perfil de empresa, visibilidad en buscador, postulación a 3 o
 
 Pro (Pago): Postulaciones ilimitadas, estadísticas avanzadas, y contacto directo para hacer networking sin límites.
 
+## Estado del proyecto :
+  "🚧 En desarrollo activo
 
-### Built With
+### Construido con
 
 - [ React 18 + TypeScript + Vite.](https://vite.dev/)
 - [Tailwind CSS](https://tailwindcss.com/docs/installation/using-vite)
@@ -28,4 +33,14 @@ Pro (Pago): Postulaciones ilimitadas, estadísticas avanzadas, y contacto direct
 - [Zustand](https://github.com/pmndrs/zustand)
 - [Supabase](https://supabase.com/docs/guides/getting-started/quickstarts/reactjs)
 - [Mercado Pago](https://www.mercadopago.com.ar/developers/es/reference)
+
+### Para poder ejecutar localmente
+1. clonar proyecto
+2. npm install 
+3. npm run dev
+4. abrir navegador 
+
+### Contacto 
+- [mail](ortatech@hotmail.com)
+- [LinkedIn](www.linkedin.com/in/cesar-martin-de-orta-4209693bb)
 
